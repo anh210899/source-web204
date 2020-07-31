@@ -65,4 +65,4 @@ Vẫn ở nhánh develop nhưng lại lỡ làm việc (có sự thay đổi c�
         "git push web204 HEAD -f" 
 - Luôn cập nhật nhánh làm viêc chính (develope) mới nhất só với develop trên github
 - git pull origin/web204 develop 
-- bắt buộc phải đứng ở nhánh develop
+- bắt buộc phải đứng ở nhánh develope
